@@ -1,0 +1,52 @@
+# =====================
+# Node.js / Backend
+# =====================
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# =====================
+# React / Frontend
+# =====================
+# Node modules (frontend)
+frontend/node_modules/
+
+# Build folder
+frontend/build/
+
+# Local env files
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# =====================
+# Database / Misc
+# =====================
+# MongoDB data (if any local storage)
+data/
+
+# =====================
+# IDE / OS
+# =====================
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
